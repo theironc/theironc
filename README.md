@@ -1,5 +1,5 @@
 Bienvenido!
-++++++++++++++++++++++++++++++++++++++++++++++++
+
 Hola soy Luis Almaguer                      
 actualmente estoy aprendiendo javascript    
 y mejorando mis habilidades de programador  
@@ -9,7 +9,7 @@ un correo a almaguer@gmail.com
 
 
 Welcome! 
-++++++++++++++++++++++++++++++++++++++++++++++++
+
 Hi, I’m Luis Almaguer.                                                              
 and i’m currently learning javascript and   
 improving my programer skills.              
