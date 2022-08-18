@@ -3,7 +3,7 @@ Bienvenido!
 Hola soy Luis Almaguer                      
 actualmente estoy aprendiendo javascript    
 y mejorando mis habilidades de programador  
-andaré por aqui si necesitas algo envía    
+andaré por aqui estudiando si necesitas algo envíame    
 un correo a almaguer@gmail.com              
 
 
