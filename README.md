@@ -1,8 +1,6 @@
 Welcome! 
-Hi, I’m Luis Almaguer.                                                             
-and i’m currently learning javascript✨ and   
-improving my programer skills.              
-i´ll be here for a while sendme an email to 
+Hi, I’m Luis.                                                  
+and i’m currently learning javascript✨ and improving my programer skills. I´ll be here for a while sendme an email to 
 almaguer@gmail.com if you need anything. 😺   
 
 
